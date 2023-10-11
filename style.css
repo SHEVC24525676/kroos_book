@@ -1,0 +1,144 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.cont{
+  display: flex;
+  background-color: #e3e3e3;
+  justify-content: center;
+  height: 60px; 
+  align-items: center;
+  box-shadow: 0.5px 0.5px 0.5px 0.5px #d1d1d2;
+  text-align: center;
+  
+}
+
+.box{
+  height: 20px;
+  width: 150px;
+  background-color: #9196e3;
+  margin: 10px;
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+  color: white;
+  border: 4px solid #d6d6d6;
+  border-radius: 3%;
+}
+
+.box:hover{
+  cursor: pointer;
+}
+
+
+.mini{
+  height: 40px;
+  width: 40px;
+  margin: 10px;
+}
+
+.kross{
+  height: 250px; 
+  width: 250px;
+  background-color: #e3e3e3;
+  margin: 50px 40px 30px 20px;
+    border: 8px solid #d6d6d6;
+  border-radius: 3%;
+  
+}
+
+
+.kross:hover{
+  cursor: pointer;
+  border: 8px solid #3e3d3d;
+}
+
+.image{
+  height: 150px;
+  width: 150px;
+
+  
+}
+.p{
+  border: 8px solid #9196e3;
+    text-align: center;
+    background-color: #f6f6f6;
+
+}
+
+.tufl{
+  margin-top: 10px;
+  color: black;
+    text-align: center;
+}
+
+.container{
+ display:flex;
+  align-items: center;
+  justify-content: center;
+
+}
+body {
+  margin: 0;
+}
+
+a {
+   text-decoration: none;
+  color: white;
+}
+
+h1{
+  text-align: center;
+  
+}
+.color{
+  color: black;
+}
+
+h2{
+  text-align: center;
+ color: #ebebeb;
+  background-color: #3e3d3d;
+  margin:  150px 150px 0px 150px;
+  padding: 25px;
+}
+
+.insta{
+   height: 50px;
+  width: 50px;
+  margin: 10px;
+  background-color: #3e3d3d;
+  padding: 10px;
+  border: 8px solid #3e3d3d;
+  border-radius: 5%;
+}
+
+.gop{
+  text-align: center
+}
+
+.h2{
+  text-align: center;
+  color: #ffffff;
+}
+
+h2:hover{
+  cursor: pointer;
+}
+
+.top{
+  display: flex;
+  background-color: #3e3d3d;
+  height: 40px;
+}
+
+.com {
+  text-align: center;
+  margin-top: 100px;
+}
+
+p {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+
